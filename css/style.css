@@ -354,7 +354,7 @@ margin: 0px 20px 0px 0px;
     width: 100%;
     float: left;
     margin-top: 30px;
-    margin-bottom: 200px;
+    margin-bottom: 15px;
 }
 
 .about_taital_main {
@@ -425,17 +425,7 @@ margin: 0px 20px 0px 0px;
 
 .center_galery{
     display: flex;
-    
     justify-content: space-between;
-}
-
-.produk{
-    font-size: 40px;
-    color: #330846;
-}
-.produkk{
-    font-size: 25px;
-    color: #330846;
 }
 
 .gallery_text {
